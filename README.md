@@ -1,6 +1,12 @@
 # Large Text Word Count
 A study on Exact and Approximate Occurrences Counters
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-success)
+![](https://img.shields.io/badge/Made%20With-Python-blue)
+[![](https://img.shields.io/badge/Dataset-Project%20Gutenberg-lightgrey.svg?style=flat)](https://www.gutenberg.org/)
+![](https://img.shields.io/badge/License-Free%20To%20Use-green)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 ## Description
 
 The challenge of parallel event counting in a memory efficient way is not a recent topic, but it is one still under discussion as there is great room for improvement.
